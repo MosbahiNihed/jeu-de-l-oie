@@ -1,0 +1,144 @@
+# depslib dependency file v1.0
+1619285185 source:c:\hbiba\src\cases.cpp
+	<iostream>
+	"cases.h"
+	<string>
+
+1619285188 c:\hbiba\include\cases.h
+	<iostream>
+	<string>
+	"player.h"
+
+1619395170 c:\hbiba\include\player.h
+	<iostream>
+	<string>
+
+1619397560 source:c:\hbiba\src\player.cpp
+	<iostream>
+	"player.h"
+	<string>
+
+1619391326 source:c:\hbiba\main.cpp
+	"windows.h"
+	<iostream>
+	<string>
+	"player.h"
+	"cases.h"
+	"Game.h"
+	<cstdlib>
+	<time.h>
+
+1619363140 c:\hbiba\include\game.h
+	<iostream>
+	<string>
+	"cases.h"
+	"player.h"
+
+1619396859 source:c:\hbiba\src\game.cpp
+	<iostream>
+	<string>
+	"Game.h"
+	"player.h"
+	"cases.h"
+	<windows.h>
+	<unistd.h>
+
+1620176145 source:c:\users\asus\desktop\hbiba\main.cpp
+	"windows.h"
+	<iostream>
+	<string>
+	"player.h"
+	"cases.h"
+	"Game.h"
+	<cstdlib>
+	<time.h>
+
+1620173943 c:\users\asus\desktop\hbiba\include\player.h
+	<iostream>
+	<string>
+
+1619281590 c:\users\asus\desktop\hbiba\include\cases.h
+	<iostream>
+	<string>
+	"player.h"
+
+1620176000 c:\users\asus\desktop\hbiba\include\game.h
+	<iostream>
+	<string>
+	"cases.h"
+	"player.h"
+
+1619281586 source:c:\users\asus\desktop\hbiba\src\cases.cpp
+	<iostream>
+	"cases.h"
+	<string>
+
+1620173945 source:c:\users\asus\desktop\hbiba\src\player.cpp
+	<iostream>
+	"player.h"
+	<string>
+
+1620174850 source:c:\users\asus\desktop\hbiba\src\game.cpp
+	<iostream>
+	<string>
+	"Game.h"
+	"player.h"
+	"cases.h"
+	<windows.h>
+	<unistd.h>
+
+1619281586 source:c:\users\moura\desktop\hbiba (1)\hbiba\src\cases.cpp
+	<iostream>
+	"cases.h"
+	<string>
+
+1619281590 c:\users\moura\desktop\hbiba (1)\hbiba\include\cases.h
+	<iostream>
+	<string>
+	"player.h"
+
+1620173943 c:\users\moura\desktop\hbiba (1)\hbiba\include\player.h
+	<iostream>
+	<string>
+
+1620948925 source:c:\users\moura\desktop\hbiba (1)\hbiba\src\game.cpp
+	<iostream>
+	<string>
+	"Game.h"
+	"player.h"
+	"cases.h"
+	<windows.h>
+	<unistd.h>
+	"file.h"
+
+1620345828 c:\users\moura\desktop\hbiba (1)\hbiba\include\game.h
+	<iostream>
+	<string>
+	"cases.h"
+	"player.h"
+
+1620173945 source:c:\users\moura\desktop\hbiba (1)\hbiba\src\player.cpp
+	<iostream>
+	"player.h"
+	<string>
+
+1620574332 source:c:\users\moura\desktop\hbiba (1)\hbiba\main.cpp
+	"windows.h"
+	<iostream>
+	<string>
+	"player.h"
+	"cases.h"
+	"Game.h"
+	<cstdlib>
+	<time.h>
+	<fstream>
+	<ctime>
+	<sstream>
+	"file.h"
+
+1619798168 c:\users\moura\desktop\hbiba (1)\hbiba\common.h
+	<fstream>
+
+1620573565 c:\users\moura\desktop\hbiba (1)\hbiba\include\file.h
+	<fstream>
+
